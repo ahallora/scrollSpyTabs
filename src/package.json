@@ -6,7 +6,7 @@
   "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tabs/CustomizedTabs.js",
   "dependencies": {
     "@material-ui/core": "latest",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "react": "latest",
     "react-dom": "latest"
   }
